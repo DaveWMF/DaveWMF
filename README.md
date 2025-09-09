@@ -4,16 +4,32 @@
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-maya-franco-9387101b9/)
 
-Hello there! Soy David, un bioinformático loco, desarrollador de sistemas y profesor de desarrollo Web en Dev.F.
+### English
+
+Hello there! I'm David, former researcher at CIC IPN, software and hardware developer and Web Developement ex-professor at Dev.F.
+
+Some of my habilities are:
+- Research in quantum computing and bioinformatics
+- Mathematical modeling
+- AI, software and hardware development
+- Teaching
+
+Something noticeable about me is that... I love fractals!!!
+
+### Español
+
+Hello there! Soy David, desarrollador de sistemas y profesor de desarrollo Web en Dev.F.
 
 Actualmente algunas de mis habilidades son:
-- Desarrollo e investigación en Bioinformática
-- Desarrollo de IA
-- Desarrollo de software y hardware
-- Desarrollo de bases de datos SQL
+- Investigación en Computación cuántica y Bioinformática
+- Modelado matemático
+- Desarrollo de IA, software y hardware
 - Enseñanza
 
 Y como puedes ver... ¡¡¡También me encantan los fractales!!!
+
+
+
 
 # 📊 GitHub Stats:
 <div align="center">
